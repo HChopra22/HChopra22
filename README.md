@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @HChopra22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @HarshChopra, I am a Computer Science graudate finding my way around the world of programming and development!
 
+👀 I’m interested in expanding my knowledge in programming languages and techniques as well as exploring other routes in the CompSci field
+
+🌱 I’m currently learning ReactJS through my graduate scheme with Vodafone!
+
+💞️ I’m looking to collaborate on different projects that can propell my knowledge further! My love for gaming intrigues me into learning more about Games design!
+
+📫 How to reach me: Please do not hesitate to contact me at chopraharshdeep@gmail.com
 <!---
 HChopra22/HChopra22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
